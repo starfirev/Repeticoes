@@ -13,8 +13,7 @@ while (true)
     bateria--; 
     Thread.Sleep(1000);
     if (bateria <= 0)
-    {
+    { 
         break;
     }
 }
-// senac47278.local
